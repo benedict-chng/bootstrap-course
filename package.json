@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/benedict-chng/bootstrap-course/issues"
   },
-  "homepage": "https://github.com/benedict-chng/bootstrap-course#readme"
+  "homepage": "https://github.com/benedict-chng/bootstrap-course#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
 }
