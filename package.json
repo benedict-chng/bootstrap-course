@@ -1,0 +1,19 @@
+{
+  "name": "gamelayout",
+  "version": "1.0.0",
+  "description": "Bootstrap course progress by Udemy Learn Bootstrap 4 by Example by Gary Simon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benedict-chng/bootstrap-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benedict-chng/bootstrap-course/issues"
+  },
+  "homepage": "https://github.com/benedict-chng/bootstrap-course#readme"
+}
